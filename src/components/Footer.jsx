@@ -237,13 +237,13 @@ import React, { useState } from 'react';
                 </motion.div>
                 <span>by</span>
                 <motion.a
-                  href="https://meku.dev"
+                  href="https://github.com/uchochi"
                   target="_blank"
                   rel="nofollow"
                   className="ml-1 text-blue-400 hover:text-blue-300 transition-colors duration-200"
                   whileHover={{ scale: 1.05 }}
                 >
-                  Meku.dev
+                  Abram Ugochukwu
                 </motion.a>
               </div>
             </motion.div>

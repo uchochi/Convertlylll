@@ -47,7 +47,7 @@ const NotFound = () => {
               We can&apos;t seem to find the page you are looking for!
             </p>
             <a
-              href="https://wild-mango-xj.meku.app"
+              href="https://github.com/uchochi/Convertlylll"
               className="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-medium text-black transition-colors hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-black"
             >
               Back to homepage
@@ -56,7 +56,7 @@ const NotFound = () => {
             {/* Footer */}
             <div className="mt-16">
               <p className="text-sm text-gray-600">
-                © {new Date().getFullYear()} - Meku.dev
+                © {new Date().getFullYear()} - Abram Ugochukwu
               </p>
             </div>
           </div>

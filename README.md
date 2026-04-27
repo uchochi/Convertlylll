@@ -1,6 +1,6 @@
 # Convertly – Free React SaaS Landing Page Template
 
-Convertly is a free, open-source, and conversion-focused **SaaS landing page template** built with [**Meku – AI web app builder**](https://meku.dev/). Based on React.js and Tailwind CSS v4.
+Convertly is a free, open-source, and conversion-focused **SaaS landing page template** built by **Abram Ugochukwu**. Based on React.js and Tailwind CSS v4.
 
 It’s designed to help startups, SaaS founders, and developers launch fast with a modern, responsive, and performance-optimized landing page.  
 
@@ -14,7 +14,7 @@ With **pre-built sections** like Hero, Features, Portfolio, Pricing, Testimonial
 
 <img width="1470" height="830" alt="SaaS Landing Page Template Preview – Hero and Features" src="https://github.com/user-attachments/assets/d6c07814-f510-4c43-81f0-ac0dab76ec29" />
 
-👉 [Live Demo – Convertly](https://convertly.meku.app/)
+👉 [Live Demo – Convertly](https://github.com/uchochi/Convertlylll)
 
 [<img width="280" height="45" alt="Create and Deploy with Meku" src="https://github.com/user-attachments/assets/7ab2827c-749e-45cc-ba68-2c1142f312f4" />](https://meku.dev/)
 
@@ -52,8 +52,8 @@ With **pre-built sections** like Hero, Features, Portfolio, Pricing, Testimonial
 ### Installation
 
 ```bash
-git clone https://github.com/MekuHQ/convertly.git
-cd convertly
+git clone https://github.com/uchochi/Convertlylll.git
+cd Convertlylll
 npm install
 # or
 yarn install
@@ -94,9 +94,9 @@ yarn build
 
 ---
 
-## ⚡ [Built with Meku – AI App Builder](https://meku.dev/) | <img width="70" height="20" alt="Meku" src="https://github.com/user-attachments/assets/b11f7c7e-86d7-453a-8ca9-1c313c66f38b" />
+## Made by Abram Ugochukwu
 
-Convertly was generated using **Meku**, the AI-powered app builder for creating landing pages, dashboards, and full-stack apps in minutes.
+Convertly was created by **Abram Ugochukwu**.
 
 [<img width="280" height="45" alt="Create and Deploy with Meku" src="https://github.com/user-attachments/assets/7ab2827c-749e-45cc-ba68-2c1142f312f4" />](https://meku.dev/)
 
